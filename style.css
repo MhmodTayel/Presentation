@@ -140,6 +140,7 @@ body {
     margin-top: 1rem;
     
     font-size: 1.1rem;
+    display: inline-block;
   
 
   
@@ -151,4 +152,9 @@ body {
   
   font-size: 1.1rem;
 
-}}
+}
+.up {
+  padding: .75rem .8rem;
+  
+}
+}
